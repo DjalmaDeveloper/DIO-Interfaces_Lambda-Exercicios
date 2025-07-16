@@ -9,3 +9,7 @@
 - Tipo de produto
 - Produto com imposto
 - Relatório de dados do produto
+## Terceiro Exercício - Cálculo de área de formas geométricas
+- Cálculo de área de Quadrado
+- Cálculo de área de Retângulo
+- Cálculo de área de Círculo
